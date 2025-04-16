@@ -52,7 +52,7 @@ Download the **Pima Indians Diabetes Dataset** from Kaggle.
   - WITH DIABETES
   - WITHOUT DIABETES
 - [ ] (b) Evaluate the model with different data splits:
-  - 0% training, 20% testing
+  - 80% training, 20% testing
   - 70% training, 30% testing
   - 60% training, 40% testing
 
