@@ -35,10 +35,10 @@ Given the dataset:
 **Tasks:**
 - [ ] (a) Calculate regression coefficients using the formula:  
   \[
-  \alpha = (X^T X)^{-1} X^T Y
+  α = (X^T X)^{-1} X^T Y
   \]
 - [ ] (b) Compute:
-  - SSE:  
+  - SSE:
     \[
     SSE = \sum_{i=1}^{m} (y_i - \hat{y}_i)^2
     \]
@@ -69,7 +69,7 @@ Download the Position-Salaries dataset.
 - [ ] Fit models:
   - Linear Regression
   - Polynomial Regression (degrees 2, 5, and 11)
-- [ ] Use `mlxtend` to calculate:
+- [ ] Use `mixtend` to calculate:
   - Bias
   - Variance
 - [ ] Analyze:
