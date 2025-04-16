@@ -38,11 +38,8 @@ Given the dataset:
   α = (X^T X)^{-1} X^T Y
   \]
 - [ ] (b) Compute:
-  - SSE:
-    \[
-    SSE = \sum_{i=1}^{m} (y_i - \hat{y}_i)^2
-    \]
-  - \( R^2 = 1 - \frac{SSE}{SST} \)
+  - SSE
+  - R2
 
 ---
 
