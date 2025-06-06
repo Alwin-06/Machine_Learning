@@ -49,5 +49,3 @@ print("alpha0 = ", alpha0)
 print("alpha1 = ", alpha1)
 print("SSE = ",sse)
 print("R2 score = ",r2)
-
-
